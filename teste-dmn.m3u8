@@ -1,0 +1,431 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/AGZ",SBT SP HD
+http://pfsv.io:80/leticia/131278/55.ts
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/AGZ",SBT SP HD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1541912.m3u8
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/VBQ",SBT SP SD
+http://pfsv.io:80/leticia/131278/174142.ts
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/VBQ",SBT SP SD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1541914.m3u8
+
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/ATA",Globo SP HD
+http://pfsv.io:80/leticia/131278/394.ts
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/ATA",Globo SP HD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1541629.m3u8
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/AUE",Globo SP SD
+http://pfsv.io:80/leticia/131278/429.ts
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/AUE",Globo SP SD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1541631.m3u8
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/VFY",Globo Tv TEM Sorocaba HD
+http://pfsv.io:80/leticia/131278/119989.ts
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/VFY",Globo Tv TEM Sorocaba HD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1541759.m3u8
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/VDC",Globo Tv TEM Sorocaba SD
+http://pfsv.io:80/leticia/131278/456.ts
+
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/AGW",RecordTV SP HD
+http://pfsv.io:80/leticia/131278/52.ts
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/AGW",RecordTV SP HD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1541823.m3u8
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/AHK",RecordTV SP SD
+http://pfsv.io:80/leticia/131278/67.ts
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/AHK",RecordTV SP SD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1541825.m3u8
+
+
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/VVG",Band SP HD
+http://pfsv.io:80/leticia/131278/113584.ts
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/VVG",Band SP HD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1541891.m3u8
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/VVF",Band SP SD
+http://pfsv.io:80/leticia/131278/113583.ts
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://p6.vc/VVF",Band SP SD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1541893.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/APW",AMC HD
+http://pfsv.io:80/leticia/131278/300.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/APW",AMC HD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1542100.m3u8
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQS",AMC SD
+http://pfsv.io:80/leticia/131278/325.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQS",AMC SD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1542102.m3u8
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/APX",AXN HD
+http://pfsv.io:80/leticia/131278/301.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/APX",AXN HD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1542105.m3u8
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQT",AXN SD
+http://pfsv.io:80/leticia/131278/326.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQT",AXN SD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1542107.m3u8
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/APZ",CineMax HD
+http://pfsv.io:80/leticia/131278/303.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/APZ",CineMax HD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1542115.m3u8
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQV",CineMax SD
+http://pfsv.io:80/leticia/131278/328.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQV",CineMax SD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1542117.m3u8
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/WGT",FX HD
+http://pfsv.io:80/leticia/131278/308.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/WGT",FX HD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1542125.m3u8
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/ARA",FX SD
+http://pfsv.io:80/leticia/131278/333.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/ARA",FX SD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1542127.m3u8
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQF",Megapix HD
+http://pfsv.io:80/leticia/131278/310.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQF",Megapix HD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1542134.m3u8
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/ARC",MegaPix SD
+http://pfsv.io:80/leticia/131278/335.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/ARC",MegaPix SD2
+http://190.102.43.113:80/Formigatv/offilinetv1852/1542136.m3u8
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/APS",Paramount HD
+http://pfsv.io:80/leticia/131278/311.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/APS",Paramount SD
+http://pfsv.io:80/leticia/131278/336.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/APY",Sony Channel HD
+http://pfsv.io:80/leticia/131278/302.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQU",Sony Channel SD
+http://pfsv.io:80/leticia/131278/327.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQI",Space HD
+http://pfsv.io:80/leticia/131278/313.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/WGV",Space SD
+http://pfsv.io:80/leticia/131278/338.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/WGU",Studio Universal HD
+http://pfsv.io:80/leticia/131278/320.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/ARM",Studio Universal SD
+http://pfsv.io:80/leticia/131278/346.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AYV",Telecine Action HD
+http://pfsv.io:80/leticia/131278/568.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AYV",Telecine Action SD
+http://pfsv.io:80/leticia/131278/574.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AYW",Telecine Cult HD
+http://pfsv.io:80/leticia/131278/569.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AYW",Telecine Cult SD
+http://pfsv.io:80/leticia/131278/575.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AYX",Telecine Fun HD
+http://pfsv.io:80/leticia/131278/570.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AYX",Telecine Fun SD
+http://pfsv.io:80/leticia/131278/576.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AYZ",Telecine Pipoca HD
+http://pfsv.io:80/leticia/131278/572.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AYZ",Telecine Pipoca SD
+http://pfsv.io:80/leticia/131278/578.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AZA",Telecine Premium HD
+http://pfsv.io:80/leticia/131278/573.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AZA",Telecine Premium SD
+http://pfsv.io:80/leticia/131278/579.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AYY",Telecine Touch HD
+http://pfsv.io:80/leticia/131278/571.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AYY",Telecine Touch SD
+http://pfsv.io:80/leticia/131278/577.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQJ",TLC HD
+http://pfsv.io:80/leticia/131278/314.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/ARG",TLC SD
+http://pfsv.io:80/leticia/131278/340.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQK",TNT HD
+http://pfsv.io:80/leticia/131278/315.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQK",TNT SD
+http://pfsv.io:80/leticia/131278/341.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries",TNT Novelas HD
+http://pfsv.io:80/leticia/131278/148422.ts
+#EXTINF:-1 group-title="Filmes e Séries",TNT Novelas SD
+http://pfsv.io:80/leticia/131278/148423.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQL",TNT Series HD
+http://pfsv.io:80/leticia/131278/316.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQL",TNT Series SD
+http://pfsv.io:80/leticia/131278/342.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQM",Universal Channel HD
+http://pfsv.io:80/leticia/131278/317.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/ARJ",Universal Channel SD
+http://pfsv.io:80/leticia/131278/343.ts
+
+
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/AQN",Warner Channel HD
+http://pfsv.io:80/leticia/131278/319.ts
+#EXTINF:-1 group-title="Filmes e Séries" tvg-logo="http://p6.vc/ARL",Warner Channel SD
+http://pfsv.io:80/leticia/131278/345.ts
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/yA5lRBLZKQJFrLhauXoDiaqFXLD_small.jpg",Anos Incríveis S01 E01
+http://5ce.co:80/series/pamelaflores/92446060a/41887.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmf",Anos Incríveis S01 E02
+http://5ce.co:80/series/pamelaflores/92446060a/41834.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmk",Anos Incríveis S01 E03
+http://5ce.co:80/series/pamelaflores/92446060a/41833.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmK",Anos Incríveis S01 E04
+http://5ce.co:80/series/pamelaflores/92446060a/41832.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zml",Anos Incríveis S01 E05
+http://5ce.co:80/series/pamelaflores/92446060a/41831.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmj",Anos Incríveis S01 E06
+http://5ce.co:80/series/pamelaflores/92446060a/41830.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmq",Anos Incríveis S02 E01
+http://5ce.co:80/series/pamelaflores/92446060a/41829.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmy",Anos Incríveis S02 E02
+http://5ce.co:80/series/pamelaflores/92446060a/41828.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmQ",Anos Incríveis S02 E03
+http://5ce.co:80/series/pamelaflores/92446060a/41827.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmv",Anos Incríveis S02 E04
+http://5ce.co:80/series/pamelaflores/92446060a/41826.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmF",Anos Incríveis S02 E05
+http://5ce.co:80/series/pamelaflores/92446060a/41825.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zm7",Anos Incríveis S02 E06
+http://5ce.co:80/series/pamelaflores/92446060a/41824.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmG",Anos Incríveis S02 E07
+http://5ce.co:80/series/pamelaflores/92446060a/41823.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmM",Anos Incríveis S02 E08
+http://5ce.co:80/series/pamelaflores/92446060a/41822.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmY",Anos Incríveis S02 E09
+http://5ce.co:80/series/pamelaflores/92446060a/41821.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zm1",Anos Incríveis S02 E10
+http://5ce.co:80/series/pamelaflores/92446060a/41820.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zm3",Anos Incríveis S02 E11
+http://5ce.co:80/series/pamelaflores/92446060a/41819.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmP",Anos Incríveis S02 E12
+http://5ce.co:80/series/pamelaflores/92446060a/41818.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmU",Anos Incríveis S02 E13
+http://5ce.co:80/series/pamelaflores/92446060a/41817.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S02 E14
+http://5ce.co:80/series/pamelaflores/92446060a/41816.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmJ",Anos Incríveis S02 E15
+http://5ce.co:80/series/pamelaflores/92446060a/41815.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUP",Anos Incríveis S03 E01
+http://5ce.co:80/series/pamelaflores/92446060a/41881.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUU",Anos Incríveis S03 E02
+http://5ce.co:80/series/pamelaflores/92446060a/41880.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUm",Anos Incríveis S03 E03
+http://5ce.co:80/series/pamelaflores/92446060a/41879.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUJ",Anos Incríveis S03 E04
+http://5ce.co:80/series/pamelaflores/92446060a/41878.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S03 E05
+http://5ce.co:80/series/pamelaflores/92446060a/41877.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUX",Anos Incríveis S03 E06
+http://5ce.co:80/series/pamelaflores/92446060a/41876.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZU9",Anos Incríveis S03 E07
+http://5ce.co:80/series/pamelaflores/92446060a/41875.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZU5",Anos Incríveis S03 E08
+http://5ce.co:80/series/pamelaflores/92446060a/41874.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUO",Anos Incríveis S03 E09
+http://5ce.co:80/series/pamelaflores/92446060a/41873.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUd",Anos Incríveis S03 E10
+http://5ce.co:80/series/pamelaflores/92446060a/41872.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S03 E11
+http://5ce.co:80/series/pamelaflores/92446060a/41871.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZU6",Anos Incríveis S03 E12
+http://5ce.co:80/series/pamelaflores/92446060a/41870.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUZ",Anos Incríveis S03 E13
+http://5ce.co:80/series/pamelaflores/92446060a/41869.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUg",Anos Incríveis S03 E14
+http://5ce.co:80/series/pamelaflores/92446060a/41868.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S03 E15
+http://5ce.co:80/series/pamelaflores/92446060a/41867.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmE",Anos Incríveis S03 E16
+http://5ce.co:80/series/pamelaflores/92446060a/41866.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmH",Anos Incríveis S03 E17
+http://5ce.co:80/series/pamelaflores/92446060a/41865.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmL",Anos Incríveis S03 E18
+http://5ce.co:80/series/pamelaflores/92446060a/41864.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmn",Anos Incríveis S03 E19
+http://5ce.co:80/series/pamelaflores/92446060a/41863.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zm4",Anos Incríveis S03 E20
+http://5ce.co:80/series/pamelaflores/92446060a/41862.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S03 E21
+http://5ce.co:80/series/pamelaflores/92446060a/41861.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmo",Anos Incríveis S03 E22
+http://5ce.co:80/series/pamelaflores/92446060a/41860.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S03 E23
+http://5ce.co:80/series/pamelaflores/92446060a/41859.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S03 E24
+http://5ce.co:80/series/pamelaflores/92446060a/41858.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmr",Anos Incríveis S04 E01
+http://5ce.co:80/series/pamelaflores/92446060a/41857.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmN",Anos Incríveis S04 E02
+http://5ce.co:80/series/pamelaflores/92446060a/41856.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zma",Anos Incríveis S04 E03
+http://5ce.co:80/series/pamelaflores/92446060a/41855.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmB",Anos Incríveis S04 E04
+http://5ce.co:80/series/pamelaflores/92446060a/41854.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmI",Anos Incríveis S04 E05
+http://5ce.co:80/series/pamelaflores/92446060a/41853.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmC",Anos Incríveis S04 E06
+http://5ce.co:80/series/pamelaflores/92446060a/41852.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmW",Anos Incríveis S04 E07
+http://5ce.co:80/series/pamelaflores/92446060a/41851.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmR",Anos Incríveis S04 E08
+http://5ce.co:80/series/pamelaflores/92446060a/41850.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zm2",Anos Incríveis S04 E09
+http://5ce.co:80/series/pamelaflores/92446060a/41849.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zms",Anos Incríveis S04 E10
+http://5ce.co:80/series/pamelaflores/92446060a/41848.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmV",Anos Incríveis S04 E11
+http://5ce.co:80/series/pamelaflores/92446060a/41847.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmD",Anos Incríveis S04 E12
+http://5ce.co:80/series/pamelaflores/92446060a/41846.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmp",Anos Incríveis S04 E13
+http://5ce.co:80/series/pamelaflores/92446060a/41845.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmu",Anos Incríveis S04 E14
+http://5ce.co:80/series/pamelaflores/92446060a/41844.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmc",Anos Incríveis S04 E15
+http://5ce.co:80/series/pamelaflores/92446060a/41843.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmA",Anos Incríveis S04 E16
+http://5ce.co:80/series/pamelaflores/92446060a/41842.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zm0",Anos Incríveis S04 E17
+http://5ce.co:80/series/pamelaflores/92446060a/41841.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmx",Anos Incríveis S04 E18
+http://5ce.co:80/series/pamelaflores/92446060a/41840.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmt",Anos Incríveis S04 E19
+http://5ce.co:80/series/pamelaflores/92446060a/41839.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S04 E20
+http://5ce.co:80/series/pamelaflores/92446060a/41838.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmw",Anos Incríveis S04 E21
+http://5ce.co:80/series/pamelaflores/92446060a/41837.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmz",Anos Incríveis S04 E22
+http://5ce.co:80/series/pamelaflores/92446060a/41836.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S04 E23
+http://5ce.co:80/series/pamelaflores/92446060a/41835.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUG",Anos Incríveis S05 E01
+http://5ce.co:80/series/pamelaflores/92446060a/41886.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUM",Anos Incríveis S05 E02
+http://5ce.co:80/series/pamelaflores/92446060a/41885.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZUY",Anos Incríveis S05 E03
+http://5ce.co:80/series/pamelaflores/92446060a/41884.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZU1",Anos Incríveis S05 E04
+http://5ce.co:80/series/pamelaflores/92446060a/41883.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZU3",Anos Incríveis S05 E05
+http://5ce.co:80/series/pamelaflores/92446060a/41882.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmT",Anos Incríveis S05 E06
+http://5ce.co:80/series/pamelaflores/92446060a/41814.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmX",Anos Incríveis S05 E07
+http://5ce.co:80/series/pamelaflores/92446060a/41813.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zm9",Anos Incríveis S05 E08
+http://5ce.co:80/series/pamelaflores/92446060a/41812.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zm5",Anos Incríveis S05 E09
+http://5ce.co:80/series/pamelaflores/92446060a/41811.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmO",Anos Incríveis S05 E10
+http://5ce.co:80/series/pamelaflores/92446060a/41810.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmd",Anos Incríveis S05 E11
+http://5ce.co:80/series/pamelaflores/92446060a/41809.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmh",Anos Incríveis S05 E12
+http://5ce.co:80/series/pamelaflores/92446060a/41808.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zm6",Anos Incríveis S05 E13
+http://5ce.co:80/series/pamelaflores/92446060a/41807.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZmZ",Anos Incríveis S05 E14
+http://5ce.co:80/series/pamelaflores/92446060a/41806.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/Zmg",Anos Incríveis S05 E15
+http://5ce.co:80/series/pamelaflores/92446060a/41805.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJS",Anos Incríveis S05 E16
+http://5ce.co:80/series/pamelaflores/92446060a/41804.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJE",Anos Incríveis S05 E17
+http://5ce.co:80/series/pamelaflores/92446060a/41803.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJH",Anos Incríveis S05 E18
+http://5ce.co:80/series/pamelaflores/92446060a/41802.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S05 E19
+http://5ce.co:80/series/pamelaflores/92446060a/41801.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJn",Anos Incríveis S05 E20
+http://5ce.co:80/series/pamelaflores/92446060a/41800.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJ4",Anos Incríveis S05 E21
+http://5ce.co:80/series/pamelaflores/92446060a/41799.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJb",Anos Incríveis S05 E22
+http://5ce.co:80/series/pamelaflores/92446060a/41798.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJo",Anos Incríveis S05 E23
+http://5ce.co:80/series/pamelaflores/92446060a/41797.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S05 E24
+http://5ce.co:80/series/pamelaflores/92446060a/41796.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJr",Anos Incríveis S06 E01
+http://5ce.co:80/series/pamelaflores/92446060a/41795.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJN",Anos Incríveis S06 E02
+http://5ce.co:80/series/pamelaflores/92446060a/41794.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJa",Anos Incríveis S06 E03
+http://5ce.co:80/series/pamelaflores/92446060a/41793.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJB",Anos Incríveis S06 E04
+http://5ce.co:80/series/pamelaflores/92446060a/41792.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJI",Anos Incríveis S06 E05
+http://5ce.co:80/series/pamelaflores/92446060a/41791.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJC",Anos Incríveis S06 E06
+http://5ce.co:80/series/pamelaflores/92446060a/41790.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJW",Anos Incríveis S06 E07
+http://5ce.co:80/series/pamelaflores/92446060a/41789.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJR",Anos Incríveis S06 E08
+http://5ce.co:80/series/pamelaflores/92446060a/41788.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJ2",Anos Incríveis S06 E09
+http://5ce.co:80/series/pamelaflores/92446060a/41787.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJs",Anos Incríveis S06 E10
+http://5ce.co:80/series/pamelaflores/92446060a/41786.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJV",Anos Incríveis S06 E11
+http://5ce.co:80/series/pamelaflores/92446060a/41785.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJD",Anos Incríveis S06 E12
+http://5ce.co:80/series/pamelaflores/92446060a/41784.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJp",Anos Incríveis S06 E13
+http://5ce.co:80/series/pamelaflores/92446060a/41783.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJu",Anos Incríveis S06 E14
+http://5ce.co:80/series/pamelaflores/92446060a/41782.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJc",Anos Incríveis S06 E15
+http://5ce.co:80/series/pamelaflores/92446060a/41781.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJA",Anos Incríveis S06 E16
+http://5ce.co:80/series/pamelaflores/92446060a/41780.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://5ce.co:80/images/zkmv6Kkl8kdWM5HELSafO84MrPV_big.jpg",Anos Incríveis S06 E17
+http://5ce.co:80/series/pamelaflores/92446060a/41779.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJx",Anos Incríveis S06 E18
+http://5ce.co:80/series/pamelaflores/92446060a/41778.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJt",Anos Incríveis S06 E19
+http://5ce.co:80/series/pamelaflores/92446060a/41777.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJi",Anos Incríveis S06 E20
+http://5ce.co:80/series/pamelaflores/92446060a/41776.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJw",Anos Incríveis S06 E21
+http://5ce.co:80/series/pamelaflores/92446060a/41775.mp4
+#EXTINF:-1 group-title="SERIE_Anos_Incriveis" tvg-logo="http://urlon.me/ZJz",Anos Incríveis S06 E22
+http://5ce.co:80/series/pamelaflores/92446060a/41774.mp4
